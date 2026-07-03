@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to  accounts related local APIs "
+  contactDetails:
+    name: "Anubhav Kundu - Product Owner"
+    email: "akundu.anp@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
+    

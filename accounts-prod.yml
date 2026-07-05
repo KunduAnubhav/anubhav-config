@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to  accounts related prod APIs "
   contactDetails:
     name: "Anubhav Kundu - Product Owner"
-    email: "akundu.anp@gmail.com"
+    email: "{cipher}636cb17a1f0b29b82eaefbdf1a6eba8be2fbd3171c3f47edf287ffe0dc67241e56ca9d7ebec36fbbae570cd6404b3fd0"
   onCallSupport:
     - (91) 8944974798
     - (91) 9002299674
